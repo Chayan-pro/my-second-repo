@@ -1,0 +1,8 @@
+h3{
+    color: navy;
+    background-color: yellow;
+    font-size: 32px;
+    font-weight: 400;
+    padding-left: 30px;
+    text-transform: capitalize;
+}
